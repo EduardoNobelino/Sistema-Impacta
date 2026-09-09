@@ -63,6 +63,7 @@ Foram desenvolvidos testes automatizados utilizando JUnit 5 para verificar:
 - E-mail duplicado
 - Dados inexistentes
 - Formato inválido de data
+- Entre outros
 
 ## Tecnologias
 
